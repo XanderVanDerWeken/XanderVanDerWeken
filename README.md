@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @XanderVanDerWeken
-- 👀 I’m interested in Backend Programming
-- 🌱 I’m currently learning Applied Computer Science
+<h2> Hi, I’m @XanderVanDerWeken 👋 </h2>
+<p><em>I am a Software Engineering Student at <a href="www.fh-erfurt.de">FH-Erfurt</a></em></p>
 
-<!---
-XanderVanDerWeken/XanderVanDerWeken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Twitter: vanxa812](https://img.shields.io/twitter/follow/vanxa812?style=social)](https://twitter.com/vanxa812)
+[![GitHub: XanderVanDerWeken](https://img.shields.io/github/followers/xandervanderweken?label=follow&style=social)](https://github.com/XanderVanDerWeken)
+
+### A little more about me...
+
+```javascript
+const vanxa = {
+    pronouns: "he" | "his",
+    code: [Java, Kotlin, C/C++, HTML, CSS],
+    tools: [Ktor, Maven, Docker],
+    interests: "Backend"
+}
+```
