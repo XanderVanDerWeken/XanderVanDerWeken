@@ -33,6 +33,10 @@ me.sayHi()
 
 <h2>Highlight Projects</h2>
 
+<a href="https://github.com/XanderVanDerWeken/HaushaltManagment">
+    <img alighn="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XanderVanDerWeken&repo=HaushaltManagment&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="HaushaltManagment" />
+</a>
+
 <a href="https://github.com/XanderVanDerWeken/XanderVanDerWeken">
     <img alighn="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XanderVanDerWeken&repo=XanderVanDerWeken&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="XanderVanDerWeken" />
 </a>
