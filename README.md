@@ -40,3 +40,11 @@ me.sayHi()
 <a href="https://github.com/XanderVanDerWeken/EKI_Invers_Vue">
     <img alighn="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XanderVanDerWeken&repo=EKI_Invers_Vue&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="EKI_Invers_Vue" />
 </a>
+
+<a href="https://github.com/XanderVanDerWeken/SmartPlant">
+    <img alighn="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XanderVanDerWeken&repo=SmartPlant&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SmartPlant" />
+</a>
+
+<a href="https://github.com/XanderVanDerWeken/PasswordManager">
+    <img alighn="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XanderVanDerWeken&repo=PasswordManager&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="PasswordManager" />
+</a>
