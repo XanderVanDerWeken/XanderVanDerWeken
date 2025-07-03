@@ -1,50 +1,47 @@
-<h1>Hi, I’m @XanderVanDerWeken 👋</h1>
+# Hi, I’m @XanderVanDerWeken 👋
 
 [![GitHub: XanderVanDerWeken](https://img.shields.io/github/followers/xandervanderweken?label=follow&style=social)](https://github.com/XanderVanDerWeken)
 
-```kotlin
-class SoftwareDev {
-    val name = "Xander Van der Weken"
-    val role = "Software Engineering Student"
-    val uni = "FH-Erfurt"
-    val languages = listOf("lux", "de", "en", "fr")
-    val interests = listOf("Backend", "AI", "Embedded")
+```csharp
+public class SystemArchitect
+{
+    public string Name => "Xander Van der Weken";
+    public string Role => "Master Student @ FH-Erfurt & System Architect @ DAKO";
+    public string[] Languages => new[] { "lux", "de", "en", "fr" };
+    public string[] Interests => new[] { "Architecture", "Microservices", "Event Driven" };
 
-    fun sayHi() : Unit {
-        println("Thanks for stalking my Profile")
+    public void Greet()
+    {
+        Console.WriteLine("Thanks for stalking my Profile 👀");
     }
 }
 
-val me = SoftwareDev()
-me.sayHi()
+var me = new SystemArchitect();
+me.Greet();
 ```
 
-<h2>Technologies & Tools</h2>
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff)
 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0078d7.svg?style=for-the-badge&logo=docker&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 
 
 
-<h2>Highlight Projects</h2>
+## Highlight Projects
 
-<a href="https://github.com/XanderVanDerWeken/HaushaltManagment">
-    <img alighn="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XanderVanDerWeken&repo=HaushaltManagment&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="HaushaltManagment" />
+<a href="https://github.com/XanderVanDerWeken/FolderCleaner">
+    <img alighn="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XanderVanDerWeken&repo=FolderCleaner&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="FolderCleaner" />
+</a>
+
+<a href="https://github.com/XanderVanDerWeken/MarkUpEditor">
+    <img alighn="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XanderVanDerWeken&repo=MarkUpEditor&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="MarkUpEditor" />
 </a>
 
 <a href="https://github.com/XanderVanDerWeken/EKI_Invers_Vue">
     <img alighn="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XanderVanDerWeken&repo=EKI_Invers_Vue&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="EKI_Invers_Vue" />
-</a>
-
-<a href="https://github.com/XanderVanDerWeken/SmartPlant">
-    <img alighn="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XanderVanDerWeken&repo=SmartPlant&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SmartPlant" />
-</a>
-
-<a href="https://github.com/XanderVanDerWeken/PasswordManager">
-    <img alighn="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XanderVanDerWeken&repo=PasswordManager&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="PasswordManager" />
 </a>
